@@ -1,0 +1,30 @@
+body{
+    background-color: #d5e1ef;
+}
+.container, .attribution{
+    padding: 20px;
+    width: 250px;
+    margin: auto;
+    border-radius: 20px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #25314b;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 10px rgba(76, 75, 75, 0.8);
+
+}
+.container > p{
+    color: #b3b6c5;
+    font-size: 12px;
+}
+.container > span{
+    font-size: 20px;
+    color: #1b2b4c;
+}
+.attribution{
+    background-color: white;
+    border-radius: 15px;
+    font-size: 12px;
+}
